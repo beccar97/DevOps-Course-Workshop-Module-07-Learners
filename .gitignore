@@ -478,3 +478,6 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/aspnetcore,visualstudio
+
+#npm
+package-lock.json
